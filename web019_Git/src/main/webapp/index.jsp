@@ -2,6 +2,6 @@
 <body>
 <h2>Hello World!</h2>
 
-<p>Git Hello World aa1231231231asfas</p>
+<p>Git Hello World </p>
 </body>
 </html>
